@@ -22,3 +22,10 @@ creo los modelos 		"php artisan make:model Ticket -m
 "			n Object Oriented Programming (OOP),		
 
 creo las relacciones entre las tablas 
+
+
+Integrating Laravel and Vue.js with Webpack
+ npm install
+ npm run dev
+
+ npm uninstall bootstrap-sass jquery lodash --save-dev
